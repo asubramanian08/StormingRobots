@@ -1,5 +1,0 @@
-﻿  week17.cpp
-  CSV.cpp
-  Generating Code...
-CSV.obj : error LNK2005: _main already defined in week17.obj
-C:\Users\Arjun\source\repos\week13\Debug\week13.exe : fatal error LNK1169: one or more multiply defined symbols found

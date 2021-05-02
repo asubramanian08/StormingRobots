@@ -1,4 +1,0 @@
-﻿  week17.cpp
-C:\Users\Arjun\source\repos\week17\week17.cpp(12): warning C4042: 'fibArray': has bad storage class
-C:\Users\Arjun\source\repos\week17\week17.cpp(139): warning C4101: 'i': unreferenced local variable
-  week17.vcxproj -> C:\Users\Arjun\source\repos\week17\Debug\week17.exe

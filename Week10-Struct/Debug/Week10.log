@@ -1,4 +1,0 @@
-﻿  Week10.cpp
-C:\Users\Arjun\source\repos\Week10\Week10.cpp(63): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
-C:\Users\Arjun\source\repos\Week10\Week10.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Week10.vcxproj -> C:\Users\Arjun\source\repos\Week10\Debug\Week10.exe

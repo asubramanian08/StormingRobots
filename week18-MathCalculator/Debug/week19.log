@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (week19.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  week18.cpp
-C:\Users\Arjun\source\repos\week18-MathCalculator\week18.cpp(51): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
-C:\Users\Arjun\source\repos\week18-MathCalculator\week18.cpp(62): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
-C:\Users\Arjun\source\repos\week18-MathCalculator\week18.cpp(127): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
-C:\Users\Arjun\source\repos\week18-MathCalculator\week18.cpp(134): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
-  week19.vcxproj -> C:\Users\Arjun\source\repos\week18-MathCalculator\Debug\week18.exe
