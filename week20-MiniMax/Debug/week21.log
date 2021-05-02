@@ -1,0 +1,6 @@
+﻿  week20.cpp
+C:\Users\Arjun\source\repos\week20-MiniMax\week20.cpp(110): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week20-MiniMax\week20.cpp(179): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  C:\Users\Arjun\source\repos\week20-MiniMax\week20.cpp(179): note: consider using '%llu' in the format string
+  C:\Users\Arjun\source\repos\week20-MiniMax\week20.cpp(179): note: consider using '%I64u' in the format string
+  week21.vcxproj -> C:\Users\Arjun\source\repos\week20-MiniMax\Debug\week20.exe

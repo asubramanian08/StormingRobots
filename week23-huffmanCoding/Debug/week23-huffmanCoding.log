@@ -1,0 +1,6 @@
+﻿  PriorityQueue_operations.cpp
+C:\Users\Arjun\source\repos\week23-huffmanCoding\PriorityQueue_operations.cpp(59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arjun\source\repos\week23-huffmanCoding\PriorityQueue_operations.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  huffmanCode.cpp
+  Generating Code...
+  week23-huffmanCoding.vcxproj -> C:\Users\Arjun\source\repos\week23-huffmanCoding\Debug\week23-huffmanCoding.exe

@@ -1,0 +1,10 @@
+﻿  hashing-main.cpp
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(88): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(141): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(170): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(172): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(174): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(176): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(217): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Arjun\source\repos\week26-hashing\hashing-main.cpp(223): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  week26-hashing.vcxproj -> C:\Users\Arjun\source\repos\week26-hashing\Debug\week26-hashing.exe
