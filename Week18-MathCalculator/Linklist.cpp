@@ -1,4 +1,4 @@
-#include "linkListFuncsHeader.h"
+#include "linkList.h"
 #include <stdlib.h>
 stack *push(stack *start, int storage)
 {

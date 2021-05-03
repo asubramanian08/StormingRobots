@@ -15,13 +15,13 @@
 /*#include <setjmp.h>
 jmp_buf env;*/
 
-void(*origHandeler)(int);
+void (*origHandler)(int);
 
 //for q2
 /*void segV_ERROR(int sig)
 {
 	printf("noooooooooooooooooooooo, segmentation fault!!!! Bye my frined\n");
-	signal(SIGSEGV, origHandeler);
+	signal(SIGSEGV, origHandler);
 	//exit(EXIT_FAILURE);
 }*/
 
@@ -33,10 +33,10 @@ void(*origHandeler)(int);
 #include <unistd.h>
 #define SLEEP sleep(2)
 #endif
-void segINT_Handeler(int sig)
+void segINT_Handler(int sig)
 {
 	printf("I am in my signal interupt\n");
-	signal(SIGINT, segINT_Handeler); //reset it to the new handeler -> windows automaticly resets iy
+	signal(SIGINT, segINT_Handler); //reset it to the new handler -> windows automaticaly resets iy
 }*/
 
 //for q5
@@ -146,21 +146,21 @@ unsigned int getNum(char* str)
 }*/
 int main(/*int argc, char* argv[] for q5 and q6*/)
 {
-	//q2
-	/*origHandeler = signal(SIGSEGV, segV_ERROR);
+    //q2
+    /*origHandler = signal(SIGSEGV, segV_ERROR);
 	int* a = NULL;
 	*a = 5;*/
 
-	//q3
-	/*void(*origHandeler)(int) = signal(SIGINT, segINT_Handeler);
+    //q3
+    /*void(*origHandler)(int) = signal(SIGINT, segINT_Handler);
 	while (true) {
 		SLEEP;
-		printf("My progmarm persistes\n");
+		printf("My program persists\n");
 	}
-	signal(SIGINT, origHandeler);*/
+	signal(SIGINT, origHandler);*/
 
-	//q5 -> handle lots of signals
-	/* * * * * * * * * * * * * * * * *
+    //q5 -> handle lots of signals
+    /* * * * * * * * * * * * * * * * *
 	 *	SIGINT:  //used to quit (0)  *
 	 *	SIGABRT : 1                  *
 	 *	SIGSEGV : 2                  *
@@ -169,7 +169,7 @@ int main(/*int argc, char* argv[] for q5 and q6*/)
 	 *	SIGTSTP : 5                  *
 	 *	SIGWINCH : 6                 *
 	 * * * * * * * * * * * * * * * * */
-	/*unsigned short activated = 1;
+    /*unsigned short activated = 1;
 	for (unsigned short i = 1; i < argc; i++)
 		if (argv[i][1] == 'a')
 			activated = ~0;
@@ -181,10 +181,11 @@ int main(/*int argc, char* argv[] for q5 and q6*/)
 	while (true) {
 		sleep; //one second
 		printf("program still running\n");
-	}*/ //actal code
+	}*/
+    //actual code
 
-	//q6 -> alarm
-	/*int returnVal;
+    //q6 -> alarm
+    /*int returnVal;
 	if ((argc >= 2) && (returnVal = getNum(argv[1])))
 		alarmGap = returnVal;
 	if (argc >= 3)
@@ -203,5 +204,5 @@ int main(/*int argc, char* argv[] for q5 and q6*/)
 		printf("Main: still running and busy, %u seconds passed\n", secondsPassed);
 	}*/
 
-	return 0;
+    return 0;
 }
