@@ -1,10 +1,17 @@
 ## StormingRobots
-This contains my work for storming robots with Ms. Mabrey in C.
-Note: Her course on https://learn.stormingrobots.com often changes so my work
-might not directly link to what is there
 
-The C++ or part 5 version of her class with Mr. Mabrey is in my C++ repository
-which is also a submodule in this code. Link to the C++ repos: https://github.com/asubramanian08/C-plus-plus
+Everything that is here is from what Ms. Mabrey taught me (in C). I learned the basics of computational thinking along with C. I started during the start of the school year in 2019 and have been continuing ever since. The book used is C programing A modern approach second edition by king.
 
-Look at the wiki (https://github.com/asubramanian08/StormingRobots/wiki) for
-more information. (It also includes information for the c++ repos.)
+### Format
+Each folder is divided by weeks, so there are some folders that are continuations of the previous week's topic.
+
+### Resources
+[Here](https://stormingrobots.com/prod/default.html) is the link to the storming robots main page.
+
+[Here](https://www.stormingrobots.com/prod/pdf/csSyllabus.pdf) is the curriculum. Note that the part 5 of the syllabus is in my [C_plus_plus repository](https://github.com/asubramanian08/C-plus-plus)
+
+(Although it often changes) The questions and exercises are on the [CS modules](https://www.stormingrobots.com/prod/tutorial/index.html#csModules).
+
+### [C++ class](https://github.com/asubramanian08/C-plus-plus)
+
+This class is taught by Mr. Mabrey where I learned things like classes, STL, and Iterations. [The book](https://github.com/asubramanian08/C-plus-plus/blob/master/C%2B%2B%20Primer%20Plus.pdf) he teaches off of is in that repository. Look at the [C++ Read Me](https://github.com/asubramanian08/C-plus-plus/blob/master/README.md) for more information about that class.
