@@ -2,6 +2,8 @@
 
 Everything that is here is from what Ms. Mabrey taught me (in C). I learned the basics of computational thinking along with C. I started during the start of the school year in 2019 and have been continuing ever since. The book used is C programing A modern approach second edition by king.
 
+Also check out [USACO-Group.md](https://github.com/asubramanian08/StormingRobots/blob/master/USACO-Group.md) for how I lead a discussion on [USACO](http://usaco.org/) Bronze and Silver problems.
+
 ### Format
 Each folder is divided by weeks, so there are some folders that are continuations of the previous week's topic.
 
