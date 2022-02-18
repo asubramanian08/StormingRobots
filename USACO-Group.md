@@ -1,7 +1,7 @@
 ## USACO-Group
 
 ### About
-Starting 10/15/21 I formed a [USACO](http://usaco.org/) group in [Storming Robots](https://stormingrobots.com/prod/default.html). We meet every friday 4:30 to 6:00 pm est. Anyone interested in [joining](https://stormingrobots.com/prod/usaco.html) should contact office@stormingrobots.com and must have a reasonable C/C++ ability (knowing recursion and simple DP). Each week I volunteer my time to discuss [USACO](http://usaco.org/) Bronze or Silver problems in order to strengthen algorithmic thinking skills and hopefully pass [USACO](http://usaco.org/) Bronze. [This](https://stormingrobots.com/prod/usaco.html) is the website for the [USACO Student Circle](https://stormingrobots.com/prod/usaco.html). I had a great experience leading the discussion and trying to get people to form solutions by developing their algorithmic thinking skills.
+Starting 10/15/21[ I formed a [USACO](http://usaco.org/) group in [Storming Robots](https://stormingrobots.com/prod/default.html). We meet every friday 4:30 to 6:00 pm est. Anyone interested in [joining](https://stormingrobots.com/prod/usaco.html) should contact office@stormingrobots.com and must have a reasonable C/C++ ability (knowing recursion and simple DP). Each week I volunteer my time to discuss [USACO](http://usaco.org/) Bronze or Silver problems in order to strengthen algorithmic thinking skills and hopefully pass [USACO](http://usaco.org/) Bronze. [This](https://stormingrobots.com/prod/usaco.html) is the website for the [USACO Student Circle](https://stormingrobots.com/prod/usaco.html). I had a great experience leading the discussion and trying to get people to form solutions by developing their algorithmic thinking skills.
 
 ### Week's info
 * 10/15/21: [USACO-B-DEC2019 q2](http://usaco.org/index.php?page=viewproblem2&cpid=964), [USACO-B-FEB2018 q3](http://usaco.org/index.php?page=viewproblem2&cpid=809); 9 people
@@ -12,6 +12,8 @@ Starting 10/15/21 I formed a [USACO](http://usaco.org/) group in [Storming Robot
 * 11/19/21: [USACO-B-FEB2012 q3](http://usaco.org/index.php?page=viewproblem2&cpid=114); 1 person
 * 12/3/21: [USACO-B-OPEN2016 q1](http://usaco.org/index.php?page=viewproblem2&cpid=639), [USACO-B-JAN2016 q1](http://usaco.org/index.php?page=viewproblem2&cpid=591); 1 person
 * 12/10/21: [USACO-B-DEC2015 q3](http://usaco.org/index.php?page=viewproblem2&cpid=569), [USACO-S-OPEN2017 q2](http://usaco.org/index.php?page=viewproblem2&cpid=739), [USACO-S-FEB2016 q3](http://usaco.org/index.php?page=viewproblem2&cpid=620); 1 person
+---
 * 1/28/22: [USACO-B-DEC2020 q2](http://usaco.org/index.php?page=viewproblem2&cpid=1060), [USACO-B-JAN2021 q3](http://usaco.org/index.php?page=viewproblem2&cpid=1085); 3 people
 * 2/4/22: [USACO-B-JAN2022 q2](http://usaco.org/index.php?page=viewproblem2&cpid=1180), [USACO-B-JAN2022 q3](http://usaco.org/index.php?page=viewproblem2&cpid=1181); 5 people
 * 2/11:22: [USACO-S-JAN2021 q1](http://usaco.org/index.php?page=viewproblem2&cpid=1086), [USACO-B-DEC2019 q1](http://usaco.org/index.php?page=viewproblem2&cpid=963), [USACO-B-FEB2019 q2](http://usaco.org/index.php?page=viewproblem2&cpid=916); 3 people
+* 2/18/22: [USACO-B-JAN2020 q1](http://usaco.org/index.php?page=viewproblem2&cpid=987), [USACO-B-OPEN2019 q2](http://usaco.org/index.php?page=viewproblem2&cpid=940); 3 people
