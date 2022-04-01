@@ -20,3 +20,4 @@ Starting 10/15/21[ I formed a [USACO](http://usaco.org/) group in [Storming Robo
 * 2/25/22: [USACO-B-FEB2020 q1](http://usaco.org/index.php?page=viewproblem2&cpid=1011), [USACO-B-JAN2018 q2](http://usaco.org/index.php?page=viewproblem2&cpid=784), [USACO-S-FEB2019 q1](http://usaco.org/index.php?page=viewproblem2&cpid=918); 4 people
 * 3/4/22: [USACO-B-FEB2022 q1](http://usaco.org/index.php?page=viewproblem2&cpid=1203), [USACO-B-FEB2022 q2](http://usaco.org/index.php?page=viewproblem2&cpid=1204); 4 people
 * 3/11/22: [USACO-B-OPEN2021 q1](http://usaco.org/index.php?page=viewproblem2&cpid=1131), [USACO-B-OPEN2021 q2](http://usaco.org/index.php?page=viewproblem2&cpid=1132); 3 people
+* 4/1/22: [USACO-B-JAN2021 q2](http://usaco.org/index.php?page=viewproblem2&cpid=1084); 3 people
