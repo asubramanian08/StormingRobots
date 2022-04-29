@@ -24,3 +24,4 @@ Starting on 10/15/21 I formed a [USACO](http://usaco.org/) group in [Storming Ro
 * 4/1/22: [USACO-B-JAN2021 q2](http://usaco.org/index.php?page=viewproblem2&cpid=1084); 3 people
 * 4/8/22: [USACO-B-DEC2013 q3](http://usaco.org/index.php?page=viewproblem2&cpid=360), [USACO-B-JAN2020 q2](http://usaco.org/index.php?page=viewproblem2&cpid=988), [USACO-S-FEB2021 q1](http://usaco.org/index.php?page=viewproblem2&cpid=1110), [USACO-B-DEC2017 q3](http://usaco.org/index.php?page=viewproblem2&cpid=761); 2 people
 * 4/22/22 (Offline session): [USACO-B-OPEN2021 q3](http://usaco.org/index.php?page=viewproblem2&cpid=1133), [USACO-S-OPEN2021 q3](http://usaco.org/index.php?page=viewproblem2&cpid=1136); Number of people unavailable
+* 4/29/22: [USACO-B-OPEN2013 q1](http://usaco.org/index.php?page=viewproblem2&cpid=278), [USACO-S-FEB2017 q2](http://usaco.org/index.php?page=viewproblem2&cpid=715), [USACO-S-DEC2016 q1](http://usaco.org/index.php?page=viewproblem2&cpid=666); 3 people
