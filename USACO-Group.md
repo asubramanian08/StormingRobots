@@ -113,3 +113,7 @@ On April 10th, 2022 I hosted an hour long Q&A with Dr. Brian Dean, the director 
   * [USACO-S-DEC2020 q3](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064)
   * [USACO-S-JAN2017 q2](http://www.usaco.org/index.php?page=viewproblem2&cpid=691)
   * [USACO-G-JAN2017 q2](http://www.usaco.org/index.php?page=viewproblem2&cpid=694)
+* 12/10/22:
+  * [USACO-B-JAN2015 q2](http://usaco.org/index.php?page=viewproblem2&cpid=508)
+  * [USACO-B-JAN2015 q3](http://usaco.org/index.php?page=viewproblem2&cpid=509)
+  * [USACO-S-JAN2015 q1](http://usaco.org/index.php?page=viewproblem2&cpid=511)
